@@ -1,5 +1,5 @@
 <h1 align="center">Kanishk Sigar</h1>
-<p align="center"><b>Student Developer</b> · Building things with code</p>
+<p align="center"><b>Student Developer</b> · Code · Build · Learn · Repeat</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishk-sigar/">
@@ -7,9 +7,6 @@
   </a>
   <a href="mailto:kanishksigar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/KanishkSigar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=KanishkSigar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
@@ -22,8 +19,6 @@ Computer Science student passionate about software engineering — exploring ful
 
 - 🎓 Currently studying Computer Science
 - 🛠️ Working with **JavaScript / TypeScript**, **Python**, and **Java / C++**
-- 🔭 Currently building **Lively**, a statically typed language with its own compiler, bytecode, and VM
-- 🌱 Learning compiler design, full-stack architecture, and cloud security
 - 💼 Open to internship and collaborative project opportunities
 - 📫 Reach me at **kanishksigar@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/kanishk-sigar/)
 
@@ -65,12 +60,12 @@ Computer Science student passionate about software engineering — exploring ful
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KanishkSigar&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkSigar&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KanishkSigar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkSigar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KanishkSigar&theme=github-dark-blue&hide_border=true" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=KanishkSigar&theme=tokyonight&hide_border=true" alt="streak"/>
 </p>
 
 ---
@@ -79,15 +74,17 @@ Computer Science student passionate about software engineering — exploring ful
 
 <p align="center">
   <a href="https://github.com/KanishkSigar/Lively">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=Lively&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=Lively&theme=tokyonight&hide_border=true" alt="Lively"/>
   </a>
+  &nbsp;
   <a href="https://github.com/KanishkSigar/legal-reasoning-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=legal-reasoning-explorer&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=legal-reasoning-explorer&theme=tokyonight&hide_border=true" alt="legal-reasoning-explorer"/>
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/KanishkSigar/s3-secure-vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=s3-secure-vault&theme=github_dark&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=s3-secure-vault&theme=tokyonight&hide_border=true" alt="s3-secure-vault"/>
   </a>
 </p>
 
@@ -100,6 +97,3 @@ Computer Science student passionate about software engineering — exploring ful
 ---
 
 <p align="center"><i>Always open to learning, collaborating, and building something cool.</i></p>
-
-<!-- Last updated: README refresh -->
-
