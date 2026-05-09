@@ -72,24 +72,6 @@ Computer Science student passionate about software engineering — exploring ful
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/KanishkSigar/Lively">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=Lively&theme=tokyonight&hide_border=true" alt="Lively"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/KanishkSigar/legal-reasoning-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=legal-reasoning-explorer&theme=tokyonight&hide_border=true" alt="legal-reasoning-explorer"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KanishkSigar/s3-secure-vault">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KanishkSigar&repo=s3-secure-vault&theme=tokyonight&hide_border=true" alt="s3-secure-vault"/>
-  </a>
-</p>
-
-### Highlights
-
 - **[Lively](https://github.com/KanishkSigar/Lively)** — A statically typed procedural language with a full toolchain: compiler, TAC, bytecode, and VM. Written in C++.
 - **[legal-reasoning-explorer](https://github.com/KanishkSigar/legal-reasoning-explorer)** — Full-stack TypeScript platform that converts unstructured legal judgments into an interactive reasoning graph.
 - **[s3-secure-vault](https://github.com/KanishkSigar/s3-secure-vault)** — Python CLI tool for end-to-end encrypted file storage on AWS S3.
