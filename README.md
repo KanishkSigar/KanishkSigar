@@ -57,14 +57,6 @@ Computer Science student passionate about software engineering — exploring ful
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KanishkSigar&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
-
----
-
 ## Featured Projects
 
 - **[Lively](https://github.com/KanishkSigar/Lively)** — A statically typed procedural language with a full toolchain: compiler, TAC, bytecode, and VM. Written in C++.
