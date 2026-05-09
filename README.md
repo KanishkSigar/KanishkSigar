@@ -100,3 +100,6 @@ Computer Science student passionate about software engineering — exploring ful
 ---
 
 <p align="center"><i>Always open to learning, collaborating, and building something cool.</i></p>
+
+<!-- Last updated: README refresh -->
+
