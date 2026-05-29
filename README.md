@@ -18,7 +18,7 @@
 Computer Science student passionate about software engineering — exploring full-stack web development, systems programming, and clean problem solving. I love turning ideas into working products and learning a little more every day.
 
 - 🎓 Currently studying Computer Science
-- 🛠️ Working with **JavaScript / TypeScript**, **Python**, and **Java / C++**
+- 🛠️ Working with **JavaScript / TypeScript**, and C++**
 - 💼 Open to internship and collaborative project opportunities
 - 📫 Reach me at **kanishksigar@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/kanishk-sigar/)
 
