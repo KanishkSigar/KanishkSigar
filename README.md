@@ -8,6 +8,9 @@
   <a href="mailto:kanishksigar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://kanishksigar.me">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <img src="https://komarev.com/ghpvc/?username=KanishkSigar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 </p>
 
@@ -20,6 +23,7 @@ Computer Science student passionate about software engineering — exploring ful
 - 🎓 Currently studying Computer Science
 - 🛠️ Working with **JavaScript / TypeScript**, and **Python**, **Java**/**C++**
 - 💼 Open to internship and collaborative project opportunities
+- 🌐 Portfolio & live projects at **[kanishksigar.me](https://kanishksigar.me)**
 - 📫 Reach me at **kanishksigar@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/kanishk-sigar/)
 
 ---
@@ -59,9 +63,12 @@ Computer Science student passionate about software engineering — exploring ful
 
 ## Featured Projects
 
-- **[Lively](https://github.com/KanishkSigar/Lively)** — A statically typed procedural language with a full toolchain: compiler, TAC, bytecode, and VM. Written in C++.
-- **[legal-reasoning-explorer](https://github.com/KanishkSigar/legal-reasoning-explorer)** — Full-stack TypeScript platform that converts unstructured legal judgments into an interactive reasoning graph.
-- **[s3-secure-vault](https://github.com/KanishkSigar/s3-secure-vault)** — Python CLI tool for end-to-end encrypted file storage on AWS S3.
+- **[Lively](https://github.com/KanishkSigar/Lively)** — A statically typed procedural language built from scratch — lexer, parser, three-address code, bytecode compiler, and a stack-based virtual machine. Written in C++.
+- **ArgonVault** — A zero-knowledge encrypted file vault. Argon2id derives keys in the browser, AES-256-GCM encrypts files before they leave, and ciphertext goes to S3 via presigned URLs — the server never sees your files or password. _FastAPI · Next.js · AWS · Cryptography._ &nbsp;[Live](https://kanishksigar.me/argonvault/) · [GitHub](https://github.com/KanishkSigar/argonvault)
+- **[IME AI Chat](https://github.com/KanishkSigar/IME-AI-Chat-)** — A web-based AI chat assistant built during my internship at Integrated Maritime Exchange — conversational queries against internal tools and data, with an LLM-powered backend.
+- **Legal Reasoning Explorer** — Full-stack TypeScript platform that converts unstructured legal judgment text into an interactive reasoning graph, making complex case logic navigable and traceable. &nbsp;[Live](https://kanishksigar.me/legal-reasoning-explorer/) · [GitHub](https://github.com/KanishkSigar/legal-reasoning-explorer)
+
+🔗 See all projects live at **[kanishksigar.me](https://kanishksigar.me)**
 
 ---
 
