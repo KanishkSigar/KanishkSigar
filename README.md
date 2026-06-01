@@ -68,8 +68,6 @@ Computer Science student passionate about software engineering — exploring ful
 - **[IME AI Chat](https://github.com/KanishkSigar/IME-AI-Chat-)** — A web-based AI chat assistant built during my internship at Integrated Maritime Exchange — conversational queries against internal tools and data, with an LLM-powered backend.
 - **Legal Reasoning Explorer** — Full-stack TypeScript platform that converts unstructured legal judgment text into an interactive reasoning graph, making complex case logic navigable and traceable. &nbsp;[Live](https://kanishksigar.me/legal-reasoning-explorer/) · [GitHub](https://github.com/KanishkSigar/legal-reasoning-explorer)
 
-🔗 See all projects live at **[kanishksigar.me](https://kanishksigar.me)**
-
 ---
 
 <p align="center"><i>Always open to learning, collaborating, and building something cool.</i></p>
