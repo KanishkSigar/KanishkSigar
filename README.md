@@ -18,7 +18,7 @@
 
 ## About
 
-I am a Computer Science undergraduate passionate about building software and solving real problems. My work spans web development, core computer science, and machine learning, and I enjoy taking ideas all the way from concept to a working product.
+A Computer Science undergraduate passionate about building software and solving real problems. My work spans web development, core computer science, and machine learning, and I enjoy taking ideas all the way from concept to a working product.
 
 - 🎓 Currently studying Computer Science
 - 🛠️ Working with **JavaScript / TypeScript**, and **Python**, **Java**/**C++**
