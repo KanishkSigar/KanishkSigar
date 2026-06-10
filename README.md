@@ -49,13 +49,31 @@ Computer Science student passionate about software engineering — exploring ful
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-**Backend, Cloud & Tools**
+**Backend & Cloud**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+</p>
+
+**ML & Data**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+</p>
+
+**Tools**
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
@@ -63,10 +81,12 @@ Computer Science student passionate about software engineering — exploring ful
 
 ## Featured Projects
 
-- **[Lively](https://github.com/KanishkSigar/Lively)** — A statically typed procedural language built from scratch — lexer, parser, three-address code, bytecode compiler, and a stack-based virtual machine. Written in C++.
+- **SHADE** — _SHapley-Aided Detection of Emerging threats._ An explainable hybrid intrusion detection system for **zero-day attacks**: a signature layer plus an unsupervised PyTorch autoencoder trained only on benign traffic, with **SHAP** attributions explaining every alert. Final-year research project aimed at a published paper. _PyTorch · scikit-learn · SHAP · Streamlit._ &nbsp;[Site](https://kanishksigar.github.io/shade/) · [GitHub](https://github.com/KanishkSigar/shade)
+- **[Lively](https://github.com/KanishkSigar/Lively)** — A statically typed procedural language built from scratch — lexer, parser, three-address code, bytecode compiler, and a stack-based virtual machine. _Written in C++._
 - **ArgonVault** — A zero-knowledge encrypted file vault. Argon2id derives keys in the browser, AES-256-GCM encrypts files before they leave, and ciphertext goes to S3 via presigned URLs — the server never sees your files or password. _FastAPI · Next.js · AWS · Cryptography._ &nbsp;[Live](https://kanishksigar.me/argonvault/) · [GitHub](https://github.com/KanishkSigar/argonvault)
+- **LexMap** — Full-stack TypeScript platform that converts unstructured legal judgment text into an interactive reasoning graph, with an AI-powered legal assistant — making complex case logic navigable and traceable. _React · Node.js · TypeScript._ &nbsp;[Live](https://kanishksigar.github.io/lexmap/) · [GitHub](https://github.com/KanishkSigar/lexmap)
+- **CaseHarbor** — A role-based legal case management system for law firms — cases, appointments, and accounts with proper access control. _Django · PostgreSQL._ &nbsp;[Live](https://caseharbor.onrender.com) · [GitHub](https://github.com/KanishkSigar/CaseHarbor)
 - **[IME AI Chat](https://github.com/KanishkSigar/IME-AI-Chat-)** — A web-based AI chat assistant built during my internship at Integrated Maritime Exchange — conversational queries against internal tools and data, with an LLM-powered backend.
-- **Legal Reasoning Explorer** — Full-stack TypeScript platform that converts unstructured legal judgment text into an interactive reasoning graph, making complex case logic navigable and traceable. &nbsp;[Live](https://kanishksigar.me/legal-reasoning-explorer/) · [GitHub](https://github.com/KanishkSigar/legal-reasoning-explorer)
 
 ---
 
