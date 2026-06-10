@@ -18,7 +18,7 @@
 
 ## About
 
-Final-year Computer Science student who likes building things that are genuinely hard — a language compiler and VM, a zero-knowledge encrypted vault, and an explainable ML system for intrusion detection. I move comfortably across systems programming, applied security, and machine learning, and I care about shipping ideas as real, working products — not just demos.
+Final-year Computer Science student focused on systems programming, applied security, and machine learning. I build full projects end to end — from a bytecode VM to a zero-knowledge vault — and care about clean, production-minded engineering.
 
 - 🎓 Currently studying Computer Science
 - 🛠️ Working with **JavaScript / TypeScript**, and **Python**, **Java**/**C++**
