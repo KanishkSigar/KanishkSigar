@@ -1,5 +1,6 @@
 <h1 align="center">Kanishk Sigar</h1>
-<p align="center"><b>Student Developer</b> · Code · Build · Learn · Repeat</p>
+<p align="center"><b>CS Undergrad</b> &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Security &nbsp;·&nbsp; Applied ML</p>
+<p align="center"><i>C++ · Python · TypeScript — building things end to end</i></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishk-sigar/">
