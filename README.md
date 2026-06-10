@@ -1,6 +1,5 @@
 <h1 align="center">Kanishk Sigar</h1>
-<p align="center"><b>CS Undergrad</b> &nbsp;·&nbsp; Systems &nbsp;·&nbsp; Security &nbsp;·&nbsp; Applied ML</p>
-<p align="center"><i>C++ · Python · TypeScript — building things end to end</i></p>
+<p align="center"><b>Student Developer</b> · Code · Build · Learn · Repeat</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanishk-sigar/">
@@ -19,7 +18,7 @@
 
 ## About
 
-Computer Science student passionate about software engineering — exploring full-stack web development, systems programming, and clean problem solving. I love turning ideas into working products and learning a little more every day.
+Final-year Computer Science student who likes building things that are genuinely hard — a language compiler and VM, a zero-knowledge encrypted vault, and an explainable ML system for intrusion detection. I move comfortably across systems programming, applied security, and machine learning, and I care about shipping ideas as real, working products — not just demos.
 
 - 🎓 Currently studying Computer Science
 - 🛠️ Working with **JavaScript / TypeScript**, and **Python**, **Java**/**C++**
