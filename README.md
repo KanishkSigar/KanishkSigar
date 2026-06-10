@@ -20,8 +20,8 @@
 
 Computer Science undergraduate passionate about building software and solving real problems. My work spans web development, core computer science, cybersecurity, and machine learning, and I enjoy taking ideas all the way from concept to a working product.
 
-- 🎓 Currently studying Computer Science
-- 🛠️ Working with **JavaScript / TypeScript**, and **Python**, **Java**/**C++**
+- 🎓 B.Tech CSE @ Graphic Era Hill University, Dehradun
+- 🛠️ Working with **JavaScript / TypeScript**, **Python**, **Java**, and **C++**
 - 💼 Open to internship and collaborative project opportunities
 - 🌐 Portfolio & live projects at **[kanishksigar.me](https://kanishksigar.me)**
 - 📫 Reach me at **kanishksigar@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/kanishk-sigar/)
