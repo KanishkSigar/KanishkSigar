@@ -18,7 +18,7 @@
 
 ## About
 
-Final-year Computer Science student focused on systems programming, applied security, and machine learning. I build full projects end to end — from a bytecode VM to a zero-knowledge vault — and care about clean, production-minded engineering.
+I am a Computer Science undergraduate passionate about building software and solving real problems. My work spans web development, core computer science, and machine learning, and I enjoy taking ideas all the way from concept to a working product.
 
 - 🎓 Currently studying Computer Science
 - 🛠️ Working with **JavaScript / TypeScript**, and **Python**, **Java**/**C++**
