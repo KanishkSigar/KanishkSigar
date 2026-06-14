@@ -86,7 +86,7 @@ Computer Science undergraduate passionate about building software and solving re
 - **[ArgonVault](https://github.com/KanishkSigar/argonvault)** — A zero-knowledge encrypted file vault. Argon2id derives keys in the browser, AES-256-GCM encrypts files before they leave, and ciphertext goes to S3 via presigned URLs — the server never sees your files or password. _FastAPI · Next.js · AWS · Cryptography._ &nbsp;[Live](https://kanishksigar.me/argonvault/)
 - **[LexMap](https://github.com/KanishkSigar/lexmap)** — Full-stack TypeScript platform that converts unstructured legal judgment text into an interactive reasoning graph, with an AI-powered legal assistant — making complex case logic navigable and traceable. _React · Node.js · TypeScript._ &nbsp;[Live](https://kanishksigar.github.io/lexmap/)
 - **[CaseHarbor](https://github.com/KanishkSigar/CaseHarbor)** — A role-based legal case management system for law firms — cases, appointments, and accounts with proper access control. _Django · PostgreSQL._ &nbsp;[Live](https://caseharbor.onrender.com)
-- **[IME AI Chat](https://github.com/KanishkSigar/IME-AI-Chat-)** — A web-based AI chat assistant built during my internship at Integrated Maritime Exchange — conversational queries against internal tools and data, with an LLM-powered backend.
+- **[CharterDesk](https://github.com/KanishkSigar/CharterDesk)** — A charter-party (CP) negotiation and document-generation tool for maritime fixture deals, built during my internship at Integrated Maritime Exchange. Two parties negotiate ~38 fixture terms in versioned offers, lock agreed terms, and export a Charter Party / recap as PDF. _PHP · MySQL._
 
 ---
 
